@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\obj\Debug\LearnMathclass.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\obj\Debug\LearnMathclass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\bin\Debug\LearnMathclass.exe.config
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\bin\Debug\LearnMathclass.exe
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\bin\Debug\LearnMathclass.pdb
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\obj\Debug\LearnMathclass.exe
+C:\Users\Admin\source\repos\learnCSHARP\LearnMathclass\obj\Debug\LearnMathclass.pdb
